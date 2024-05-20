@@ -1,0 +1,4 @@
+#nav-menu li:first-child a:active {
+    /* Your styles for the anchor with icon */
+    color:red;
+}
