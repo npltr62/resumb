@@ -85,4 +85,4 @@ work:
       - Mises à jour et contrôle de la qualitée des données du SIG
       - Réalisation de requêtes et cartes thématiques ( Model Builder)
 ---
-Passionné d'informatique et de technologies, apprendre en permanence, faire de la veille afin de pouvoir maitriser toute la chaîne des SIG.
+Passionné par mon métier, je consacre du temps à apprendre et à suivre les évolutions informatiques et technologiques pour maîtriser l'ensemble de la chaîne des systèmes d'information géographique (SIG).

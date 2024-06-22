@@ -10,9 +10,9 @@ main:
   - name: Experiences
     url: /experiences
     weight: 20    
-  - name: Compétences
-    url: /competences
-    weight: 30        
+  # - name: Compétences
+  #   url: /competences
+  #   weight: 30        
   - name: Projets
     url: projets/
     weight: 40
