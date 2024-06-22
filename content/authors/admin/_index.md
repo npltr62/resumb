@@ -31,6 +31,16 @@ profiles:
     url: https://www.linkedin.com/npltr62
 
 work:
+  - position: Chargé de Suivi du SI Pêche
+    company_name: Fédération Nationale de la Pêche en France
+    company_url: 'https://www.federationpeche.fr/'
+    company_logo: 'fnpf'
+    date_start: '2024-05-13'
+    date_end: '2024-11-12'
+    summary: |2-
+      Les missions:
+      - Assistance Maitrise d'ouvrage FNPF
+
   - position: Géomaticien - Chargé de mission PDPG 
     company_name: Fédération de Maine-et-Loire pour la Pêche et la Protection du Milieu Aquatique
     company_url: 'https://www.fedepeche49.fr/'
